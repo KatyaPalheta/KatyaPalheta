@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi devs, my name is Katya PAlheta and I develop for the web
 
-<!--
-**KatyaPalheta/KatyaPalheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/KatyaPalheta">
+  <section>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KatyaPalheta&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaPalheta&layout=compact&langs_count=7&theme=react"/>
+  <img height='160em' src='https://github-readme-streak-stats.herokuapp.com?user=KatyaPalheta&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  </section>
+</div>
 
-Here are some ideas to get you started:
+### My techs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<section>
+  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/188039955-d02f0029-b2d6-4101-85d3-25a28baae374.png"/>
+
+### Contact me
+
+  <a href="mailto:katyasylene@yahoo.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/katyapalheta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+- 🔭 Atualmente estou trabalhando em : DIVAS! Site com efeito paralax, e api do spotfy
+- 🌱 Estou aprendendo React
+- 😄 Ela/Dela
+- ⚡ Fun fact: Eu faço amigurumis muito lindos
 -->
