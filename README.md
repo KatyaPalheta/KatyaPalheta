@@ -1,4 +1,4 @@
-## Olá, eu me chamo Katya PAlheta e sou Desenvolvedora Front-End
+## Olá, eu me chamo Katya Palheta e sou Desenvolvedora Front-End
 
 <div align="center">
   <a href="https://github.com/KatyaPalheta">
