@@ -1,4 +1,4 @@
-## Hi devs, my name is Katya PAlheta and I develop for the web
+## Olá, eu me chamo Katya PAlheta e sou Desenvolvedora Front-End
 
 <div align="center">
   <a href="https://github.com/KatyaPalheta">
@@ -9,7 +9,7 @@
   </section>
 </div>
 
-### My techs
+### Minhas Tecnologias
 
 <section>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -19,13 +19,12 @@
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/188039955-d02f0029-b2d6-4101-85d3-25a28baae374.png"/>
 
-### Contact me
+### Meus Contatos
 
   <a href="mailto:katyasylene@yahoo.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/katyapalheta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 🔭 Atualmente estou trabalhando em : DIVAS! Site com efeito paralax, e api do spotfy
+- 🔭 Atualmente estou trabalhando em : DIVAS! Site com efeito paralax e api do spotfy
 - 🌱 Estou aprendendo React
 - 😄 Ela/Dela
-- ⚡ Fun fact: Eu faço amigurumis muito lindos
--->
+- ⚡ Fun fact: Eu faço amigurumis muito lindos 
