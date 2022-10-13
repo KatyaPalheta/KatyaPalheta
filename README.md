@@ -29,4 +29,4 @@
 - 🌱 Estou aprendendo React
 - 😄 Ela/Dela
 - ⚡ Fun fact: Eu faço amigurumis muito lindos 
-![2825934](https://user-images.githubusercontent.com/109077065/195484068-d57c57de-63d9-47cf-a567-ed5a77420d0b.gif){height="300" width="100%"}
+<img height="300" width="100%" src="https://user-images.githubusercontent.com/109077065/195484068-d57c57de-63d9-47cf-a567-ed5a77420d0b.gif"/>
