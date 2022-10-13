@@ -25,8 +25,8 @@
   <a href="mailto:katyasylene@yahoo.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/katyapalheta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 🔭 Atualmente estou trabalhando em : DIVAS! Site com efeito paralax e api do spotfy
-- 🌱 Estou aprendendo React
+- 🔭 Atualmente estou trabalhando em : Xadrez - Java
+- 🌱 Estou aprendendo Angular
 - 😄 Ela/Dela
 - ⚡ Fun fact: Eu faço amigurumis muito lindos 
 <img height="300" width="100%" src="https://user-images.githubusercontent.com/109077065/195484068-d57c57de-63d9-47cf-a567-ed5a77420d0b.gif"/>
