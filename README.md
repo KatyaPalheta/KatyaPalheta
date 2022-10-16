@@ -8,11 +8,7 @@
   <img height='160em' src='https://github-readme-streak-stats.herokuapp.com?user=KatyaPalheta&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   </section>
 </div>
-<img src="" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
-
-<br><br>
 
 <section>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
