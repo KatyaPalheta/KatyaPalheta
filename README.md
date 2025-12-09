@@ -6,10 +6,8 @@
 <div
  
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
-  <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-          
+  <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />   
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/188039955-d02f0029-b2d6-4101-85d3-25a28baae374.png"/>
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
 </div>
