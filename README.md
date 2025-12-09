@@ -6,7 +6,7 @@
 <div
  
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
-  <img align="center"  height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg"/>
+  <img align="center"  height="50" width="50" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/120px-Logo_Aseprite.svg.png?20231108191228)"/>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
