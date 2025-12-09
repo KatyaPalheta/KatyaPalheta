@@ -4,9 +4,9 @@
   <a href="https://github.com/KatyaPalheta">
   <img src="https://streak-stats.demolab.com?user=KatyaPalheta&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 <div
-  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+ 
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
-  <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center"  height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg"/>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
