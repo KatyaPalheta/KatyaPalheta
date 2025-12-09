@@ -4,11 +4,7 @@
   <a href="https://github.com/KatyaPalheta">
   <section>
   <img src="https://streak-stats.demolab.com?user=KatyaPalheta&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KatyaPalheta&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaPalheta&layout=compact&langs_count=7&theme=react"/>
-  <img height='160em' src="https://github-readme-streak-stats.herokuapp.com?user=KatyaPalheta&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD"/>
-</div>
-    <div>
+
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -17,6 +13,7 @@
   <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/188039955-d02f0029-b2d6-4101-85d3-25a28baae374.png"/>
   <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
   </section>
+</div>
 
 ### Meus Contatos
 
